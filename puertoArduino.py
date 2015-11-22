@@ -28,5 +28,5 @@ def buscaPuerto():
         except:
             # Si hay error, no hacemos nada y continuamos con la busqueda
             pass
-    return bEncontrado, iPuerto
+    return bEncontrado, iPuerto, Arduino
 pass
