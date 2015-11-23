@@ -1,9 +1,10 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 ####################################
-#            Autor: elb4t          #
+#      Autor: elb4t y jony4t       #
 ####################################
 
+import Tkinter
 import time
 import serial
 
